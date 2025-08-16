@@ -1,0 +1,4 @@
+# Arquivos de banco de dados SQL Server
+*.mdf
+*.ldf
+*.ndf

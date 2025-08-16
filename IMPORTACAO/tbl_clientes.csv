@@ -1,0 +1,100 @@
+Codigo_Cliente,Nome_Cliente,Data_Nascimento,Sexo,Telefone,Endereco
+ROMINO,Alejandra Camino,10/17/96,F,555-9831,Obere Str. 57
+ANALLO,Ana Trujillo,12/21/66,F,555-3199,Avda. de la Constitución 2222
+TRAUES,Anabela Domingues,01/08/97,F,555-9931,Mataderos  2312
+LAMLET,Annetta Roulet,06/13/91,F,555-9857,120 Hanover Sq.
+FAMRUZ,Aria Cruz,04/10/73,F,555-9482,Berguvsvägen  8
+FRAITT,Carina Schmitt,11/15/77,F,555-3412,Forsterstr. 57
+MAIWEY,Catherina Dewey,11/09/63,F,555-8122,"24, place Kléber"
+BERUND,Christina Berglund,12/09/84,F,555-4848,"C/ Araquil, 67"
+CONOWN,Elizabetha Brown,06/19/63,F,555-7773,"12, rue des Bouchers"
+BOTOLN,Elizabetha Lincoln,01/27/89,F,555-5598,23 Tsawassen Blvd.
+BLAOOS,Hanna Moos,07/02/66,F,555-1189,Fauntleroy Circus
+ISLETT,Helena Bennett,09/24/77,F,555-4444,Cerrito 333
+PRITRO,Isabela de Castro,06/14/61,F,555-3348,Sierras de Granada 9993
+RICIRA,Jana Limeira,02/03/97,F,555-3349,Hauptstr. 29
+DUMUNE,Janina Labrune,03/03/97,F,555-3350,"Av. dos Lusíadas, 23"
+TOMPHS,Karina Josephs,11/29/71,F,555-3351,"Berkeley Gardens
+12  Brewery"
+BONHAN,Laura Lebihan,08/02/76,F,444-6587,Walserweg 21
+QUELHO,Lúcia Carvalho,08/08/95,F,444-6588,"67, rue des Cinquante Otages"
+ALFERS,Maria Anders,01/11/90,F,444-6589,35 King George
+FOLSON,Maria Larsson,01/27/80,F,65 91,Kirchgasse 6
+FOLNCE,Martina Rance,11/10/86,F,65 92,"Rua Orós, 92"
+VICLEY,Maria Saveley,11/19/73,F,65 93,"C/ Moralzarzal, 86"
+HUNNNA,Patricia McKenna,09/10/88,F,8713,"184, chaussée de Tournai"
+WELNTE,Paula Parente,12/05/66,F,8714,Åkergatan 24
+RATSON,Paula Wilson,05/07/92,F,60603,Berliner Platz 43
+LEHNER,Renata Messner,08/18/95,F,60604,"54, rue Royale"
+WANLER,Rita Müller,03/05/73,F,60605,Via Monte Bianco 34
+BSBRTH,Victoria Ashworth,10/19/70,F,3830061,Jardim das rosas n. 32
+OCEADA,Yvonna Moncada,07/25/89,F,3830062,"Rambla de Cataluña, 23"
+MORUER,Alexander Feuer,11/08/74,M,555-3389,"C/ Romero, 33"
+GOUECA,André Fonseca,06/25/96,M,555-3390,"Av. Brasil, 442"
+EASVON,Ann Devon,03/31/97,M,1131133557,2732 Baker Blvd.
+ANTENO,Antonio Moreno,02/15/97,M,1210,5ª Ave. Los Palos Grandes
+SPLGER,Artur Braunschweiger,03/16/76,M,1211,"Rua do Paço, 67"
+QUESTA,Bernardo Batista,02/18/66,M,555-4873,Carrera 22 con Ave. Carlos Soublette #8-35
+LILLEZ,Carlos González,03/17/61,M,6547666,"City Center Plaza
+516 Main St."
+HILDEZ,Carlos Hernández,02/01/65,M,6547667,8 Johnstown Road
+LACINI,Daniel Tonini,07/19/67,M,38769857,"Garden House
+Crowther Way"
+FISOEL,Diego Roel,09/06/72,M,323763983,Maubelstr. 90
+SPEIER,Dominique Perrier,11/02/91,M,555-2921,"67, avenue de l'Europe"
+GALDRA,Eduardo Saavedra,12/12/65,M,555-2922,1 rue Alsace-Lorraine
+LINRDO,Felipe Izquierdo,09/19/66,M,030-0074321,1900 Oak St.
+LONSON,Fran Wilson,05/26/66,M,555-4729,12 Orchestra Terrace
+CENANG,Francisco Chang,06/29/79,M,555-3932,Magazinweg 7
+BLOAUX,Frédérique Citeaux,04/13/78,M,555-7788,"87 Polk St.
+Suite 5"
+PICPPS,Georg Pipps,03/21/77,M,34 65,Carrera 52 con Ave. Bolívar #65-98 Llano Largo
+MAGLLI,Giovanni Rovelli,11/30/69,M,0621-08460,Ave. 5 de Mayo Porlamar
+PERDEZ,Guillermo Fernández,08/05/68,M,88601531,89 Chiaroscuro Rd.
+SEVMAR,Hari Kumar,11/28/84,M,555 22 82,Via Ludovico il Moro 22
+TRAAGY,Helvetius Nagy,12/07/64,M,91244540,Rue Joseph-Bens 532
+OTTEIM,Henriette Pfalzheim,06/18/93,M,555-4729,43 rue St. Laurent
+QUIOSS,Horst Kloss,05/24/62,M,555-1212,Heerstr. 22
+GREDER,Howard Snyder,11/06/64,M,135-5555,"South House
+300 Queensbridge"
+LETRES,Jaime Yorres,05/21/81,M,555-3392,"Ing. Gustavo Moncada 8585
+Piso 20-A"
+MERERE,Jean Fresniere,09/22/76,M,452076545,2743 Bering St.
+LAZEEL,John Steel,10/20/65,M,555-7647,Mehrheimerstr. 369
+SANSEN,Jonas Bergulfsen,04/20/76,M,555-2282,"265, boulevard Charonne"
+SAVTTI,Jose Pavarotti,03/28/64,M,241039123,Calle Dr. Jorge Cash 321
+GODYRE,José Pedro Freyre,06/19/64,M,40678888,Geislweg 14
+SIMSEN,Jytte Petersen,10/08/96,M,555-0297,Estrada da saúde n. 58
+WHISKI,Karl Jablonski,04/30/78,M,7675-3425,"Rua da Panificadora, 12"
+FURUEZ,Lino Rodriguez,04/22/79,M,555-9857,"Alameda dos Canàrios, 891"
+THEONG,Liu Wong,07/12/97,M,555 94 44,Taucherstraße 10
+THEXON,Liz Nixon,10/01/87,M,20161016,Av. del Libertador 900
+GROIRA,Manuel Pereira,06/14/72,M,695346721,2817 Milton Dr.
+PARAND,Marie Bertrand,05/05/66,M,890877310,Strada Provinciale 124
+HANTES,Mario Pontes,09/08/92,M,40322121,"Av. Copacabana, 267"
+BOLMER,Martín Sommer,10/29/73,M,114988260,Grenzacherweg 237
+WILNEN,Mattias Karttunen,04/27/74,M,354-2534,"Gran Vía, 1"
+REGONI,Maurizio Moroni,11/16/88,M,203 4560,Erling Skakkes gate 78
+RICOLZ,Michael Holz,01/31/79,M,555 82 82,187 Suffolk Ln.
+TORINO,Miguel Angel Paolino,10/22/79,M,555-9482,90 Wadhurst Rd.
+VAFSEN,Palle Ibsen,11/26/92,M,555-7555,Vinbæltet 34
+FRARTI,Paolo Accorti,06/28/62,M,283-2951,"25, rue Lauriston"
+SUPAIN,Pascale Cartrain,08/26/66,M,555-0091,P.O. Box 555
+CACSON,Patricio Simpson,05/03/98,M,555-1340,"Boulevard Tirou, 255"
+VINIOT,Paul Henriot,10/04/75,M,555-6874,"89 Jefferson Way
+Suite 2"
+COMNSO,Pedro Afonso,03/24/91,M,542,55 Grizzly Peak Rd.
+FRAKEN,Peter Franken,03/06/86,M,555-8888,Luisenstr. 48
+KOEMER,Philip Cramer,11/02/85,M,0555-09876,Avda. Azteca 123
+WARALO,Pirkko Koskitalo,03/20/71,M,30598410,"Av. Inês de Castro, 414"
+OLDIPS,Rene Phillips,06/27/85,M,61776110,722 DaVinci Blvd.
+ERNDEL,Roland Mendel,12/05/85,M,555-3392,Smagsløget 45
+RANREZ,Sergio Gutiérrez,10/22/63,M,555-7969,"2, rue du Commerce"
+NORHER,Simon Crowther,11/25/98,M,690245984,59 rue de l'Abbaye
+DRAIEB,Sven Ottlieb,08/04/91,M,555-5938,Adenauerallee 900
+ARORDY,Thomas Hardy,10/29/78,M,331-6954,Torikatu 38
+CHOANG,Yang Wang,09/04/66,M,34-56-12,"Rua do Mercado, 12"
+HUNMER,Yoshi Latimer,09/24/92,M,555-9573,"305 - 14th Ave. S.
+Suite 3B"
+LAUURI,Yoshi Tannamuri,01/01/75,M,035-640230,Keskuskatu 45
+WOLICZ,Zbyszek Piestrzeniewicz,02/23/91,M,201 24 67,ul. Filtrowa 68
